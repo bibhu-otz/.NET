@@ -28,6 +28,9 @@ Welcome to the **.NET Mastery** repository! This repository is your comprehensiv
 
 ## 🛤️ Learning Path
 
+https://roadmap.sh/aspnet-core
+
+
 ### Beginner Level
 
 ![Beginner Badge](https://img.shields.io/badge/Level-Beginner-brightgreen)
