@@ -28,8 +28,7 @@ Welcome to the **.NET Mastery** repository! This repository is your comprehensiv
 
 ## 🛤️ Learning Path
 
-https://roadmap.sh/aspnet-core
-
+<embed src="https://roadmap.sh/pdfs/roadmaps/aspnet-core.pdf" type="application/pdf" width="100%" height="600px" />
 
 ### Beginner Level
 
